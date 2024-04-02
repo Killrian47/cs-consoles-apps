@@ -1,0 +1,14 @@
+C:\Users\killi\Desktop\ExosCS\QuizzCapital\bin\Debug\net8.0\QuizzCapital.exe
+C:\Users\killi\Desktop\ExosCS\QuizzCapital\bin\Debug\net8.0\QuizzCapital.deps.json
+C:\Users\killi\Desktop\ExosCS\QuizzCapital\bin\Debug\net8.0\QuizzCapital.runtimeconfig.json
+C:\Users\killi\Desktop\ExosCS\QuizzCapital\bin\Debug\net8.0\QuizzCapital.dll
+C:\Users\killi\Desktop\ExosCS\QuizzCapital\bin\Debug\net8.0\QuizzCapital.pdb
+C:\Users\killi\Desktop\ExosCS\QuizzCapital\obj\Debug\net8.0\QuizzCapital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\killi\Desktop\ExosCS\QuizzCapital\obj\Debug\net8.0\QuizzCapital.AssemblyInfoInputs.cache
+C:\Users\killi\Desktop\ExosCS\QuizzCapital\obj\Debug\net8.0\QuizzCapital.AssemblyInfo.cs
+C:\Users\killi\Desktop\ExosCS\QuizzCapital\obj\Debug\net8.0\QuizzCapital.csproj.CoreCompileInputs.cache
+C:\Users\killi\Desktop\ExosCS\QuizzCapital\obj\Debug\net8.0\QuizzCapital.dll
+C:\Users\killi\Desktop\ExosCS\QuizzCapital\obj\Debug\net8.0\refint\QuizzCapital.dll
+C:\Users\killi\Desktop\ExosCS\QuizzCapital\obj\Debug\net8.0\QuizzCapital.pdb
+C:\Users\killi\Desktop\ExosCS\QuizzCapital\obj\Debug\net8.0\QuizzCapital.genruntimeconfig.cache
+C:\Users\killi\Desktop\ExosCS\QuizzCapital\obj\Debug\net8.0\ref\QuizzCapital.dll
