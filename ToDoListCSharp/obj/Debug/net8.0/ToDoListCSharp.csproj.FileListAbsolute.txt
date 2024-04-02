@@ -1,0 +1,14 @@
+C:\Users\killi\Desktop\Projet perso\ToDoListCSharp\bin\Debug\net8.0\ToDoListCSharp.exe
+C:\Users\killi\Desktop\Projet perso\ToDoListCSharp\bin\Debug\net8.0\ToDoListCSharp.deps.json
+C:\Users\killi\Desktop\Projet perso\ToDoListCSharp\bin\Debug\net8.0\ToDoListCSharp.runtimeconfig.json
+C:\Users\killi\Desktop\Projet perso\ToDoListCSharp\bin\Debug\net8.0\ToDoListCSharp.dll
+C:\Users\killi\Desktop\Projet perso\ToDoListCSharp\bin\Debug\net8.0\ToDoListCSharp.pdb
+C:\Users\killi\Desktop\Projet perso\ToDoListCSharp\obj\Debug\net8.0\ToDoListCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\killi\Desktop\Projet perso\ToDoListCSharp\obj\Debug\net8.0\ToDoListCSharp.AssemblyInfoInputs.cache
+C:\Users\killi\Desktop\Projet perso\ToDoListCSharp\obj\Debug\net8.0\ToDoListCSharp.AssemblyInfo.cs
+C:\Users\killi\Desktop\Projet perso\ToDoListCSharp\obj\Debug\net8.0\ToDoListCSharp.csproj.CoreCompileInputs.cache
+C:\Users\killi\Desktop\Projet perso\ToDoListCSharp\obj\Debug\net8.0\ToDoListCSharp.dll
+C:\Users\killi\Desktop\Projet perso\ToDoListCSharp\obj\Debug\net8.0\refint\ToDoListCSharp.dll
+C:\Users\killi\Desktop\Projet perso\ToDoListCSharp\obj\Debug\net8.0\ToDoListCSharp.pdb
+C:\Users\killi\Desktop\Projet perso\ToDoListCSharp\obj\Debug\net8.0\ToDoListCSharp.genruntimeconfig.cache
+C:\Users\killi\Desktop\Projet perso\ToDoListCSharp\obj\Debug\net8.0\ref\ToDoListCSharp.dll
