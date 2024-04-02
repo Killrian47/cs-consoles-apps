@@ -12,3 +12,4 @@ C:\Users\killi\Desktop\ExosCS\QuizzCapital\obj\Debug\net8.0\refint\QuizzCapital.
 C:\Users\killi\Desktop\ExosCS\QuizzCapital\obj\Debug\net8.0\QuizzCapital.pdb
 C:\Users\killi\Desktop\ExosCS\QuizzCapital\obj\Debug\net8.0\QuizzCapital.genruntimeconfig.cache
 C:\Users\killi\Desktop\ExosCS\QuizzCapital\obj\Debug\net8.0\ref\QuizzCapital.dll
+C:\Users\killi\Desktop\ExosCS\QuizzCapital\obj\Debug\net8.0\QuizzCapital.sourcelink.json
